@@ -10,5 +10,6 @@ The dataset used is CIFAR-10 available at: https://www.cs.toronto.edu/~kriz/cifa
 The project folder is organized into the following content:
   - Cyber_Project.ipynb containing the script of the project
   - Data Poisoning Attacks on Image Classifiers.pdf the report of the project
+  - Project Presentation.pdf the presentation of the project
 
 After the data are downloaded from the link above and souce directories are correclty set in the notebook, the code can be run to reproduce the results of this work.
